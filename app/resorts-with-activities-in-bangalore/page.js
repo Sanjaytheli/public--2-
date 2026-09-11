@@ -24,9 +24,9 @@ function Activities() {
     // },[])
   const images = [
     {
-      img: "/images/banners/activities_lg_banner.webp",
-      sm_image: "/images/banners/activities_sm_banner_v1.webp",
-      md_image: "/images/banners/activities_md_banner.webp",
+      img: "/images/banners/activities_lg_banner.png",
+      sm_image: "/images/banners/activities_sm_banner_v1.png",
+      md_image: "/images/banners/activities_md_banner.png",
     },
   ];
   const activities = [
